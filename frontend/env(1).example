@@ -1,0 +1,2 @@
+# Leave unset to automatically use the same hostname as the browser on port 8000.
+# VITE_API_BASE_URL=http://192.168.1.20:8000/api
